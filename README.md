@@ -75,6 +75,8 @@ Syntax: cd
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
+
+
 ![422267539-9085a4e5-41a0-4b89-ab3a-9f9156a86ccf](https://github.com/user-attachments/assets/4cb6dd6d-3574-4a5a-b9c5-509e0528111d)
 
  
